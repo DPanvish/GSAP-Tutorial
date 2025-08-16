@@ -12,7 +12,7 @@ const GsapFrom = () => {
       duration: 2,
       ease: 'power1.inOut'
     })
-  })
+  }, [])
 
   return (
     <main>
