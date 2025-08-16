@@ -2,7 +2,7 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
 const GsapFrom = () => {
-  // gsap.from() is implemented here
+  // gsap.from() is implemented here (try modifying it)
   useGSAP(() => {
     gsap.from('#green-box', {
       x: 250,

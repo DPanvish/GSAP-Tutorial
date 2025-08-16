@@ -3,7 +3,7 @@ import gsap from "gsap";
 
 const GsapTo = () => {
 
-  // This is gsap.to implemented here
+  // gsap.to is implemented here (try modifying it)
   useGSAP(() => {
     gsap.to("#blue-box", {
       x: 250,
