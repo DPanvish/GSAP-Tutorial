@@ -3,7 +3,7 @@ import gsap from "gsap";
 
 const GsapText = () => {
 
-  // gsap text implemented here
+  // gsap text implemented here (try modifying values)
   useGSAP(() => {
     gsap.to('#text', {
       ease: 'power1.inOut',
